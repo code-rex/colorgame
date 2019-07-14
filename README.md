@@ -1,4 +1,4 @@
 # Colorgame Project
+Practice Web development
 
-Practice Web development 
 Technogies Used : HTML,CSS,JAVASCRIPT
